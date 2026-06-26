@@ -1,0 +1,11 @@
+pandas
+numpy
+geopandas
+matplotlib
+scikit-learn
+xgboost
+libpysal
+torch
+torch-geometric
+earthengine-api
+nbformat
