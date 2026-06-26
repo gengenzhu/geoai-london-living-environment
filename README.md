@@ -1,6 +1,6 @@
 # GeoAI London Living Environment Analysis
 
-Portfolio-ready version of a GeoAI project on living environment deprivation in London, prepared for job and PhD applications.
+Portfolio-ready version of a GeoAI project on living environment deprivation in London
 
 ## Research Question
 
